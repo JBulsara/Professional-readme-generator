@@ -4,10 +4,10 @@
   ## Licensing:MIT license
   
  ## Table of Contents
-## Description
-## Installation
-## Usage
-## Additional Info
+    Description
+    Installation
+    Usage
+    Additional Info
 
   ## Visual Presentation
  
@@ -44,6 +44,13 @@ Type 'node index.js'
 Answer the prompts that follow
 
 On success a README.md will be generated.
+
+##   Additional Info
+     Github: JBulsara
+     Email: jigsbulsara16@gmail.com
+  
+
+
 
  
  
