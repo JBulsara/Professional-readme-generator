@@ -3,12 +3,6 @@
 
   ## Licensing:MIT license
 
-  ## Table of Contents 
-  - [Description](#description)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Additional Info](#additional-info)
-
   ## Visual Presentation
  
 
