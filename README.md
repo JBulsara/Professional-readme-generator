@@ -2,6 +2,12 @@
 # Professional Readme Generator
 
   ## Licensing:MIT license
+  
+ ## Table of Contents
+## Description
+## Installation
+## Usage
+## Additional Info
 
   ## Visual Presentation
  
