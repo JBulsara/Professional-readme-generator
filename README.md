@@ -4,10 +4,11 @@
   ## Licensing:MIT license
   
  ## Table of Contents
-    Description
-    Installation
-    Usage
-    Additional Info
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Additional Info](#additional-info)
+
 
   ## Visual Presentation
  
@@ -46,8 +47,9 @@ Answer the prompts that follow
 On success a README.md will be generated.
 
 ##   Additional Info
-     Github: JBulsara
-     Email: jigsbulsara16@gmail.com
+  - Github:  [JBulsara](https://github.com/JBulsara)
+  - Email:   jigsbulsara16@gmail.com
+    
   
 
 
