@@ -24,5 +24,14 @@
   - WHEN I click on the links in the Table of Contents
     - THEN I am taken to the corresponding section of the README
 
+## Installation:
+Download it through Github
+Ensure inquirer is installed
+## Usage:
+Open terminal
+Type 'node index.js'
+Answer the prompts that follow
+On success a README.md will be generated.
+
  
  
